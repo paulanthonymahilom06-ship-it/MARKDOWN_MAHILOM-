@@ -14,8 +14,37 @@
 
 ---
 
-##8: mortar board: Education
+### :mortar board: Education
 - Doña Carmen Denia National High School ICT Strand(2025-2026)
 
 ---
+
+### :hammer_and_wrench: Skills
+- :computer: GitHub (Version Control & Collaboration) 
+- :floppy_disk: MYSQL (Basic Database Management)
+
+---
+
+### :clipboard: Projects 
+
+- **Portfolio Website* A personal site to show my works and skills. **Markdown** which show my profile and resume.
+
+---
+
+### :trophy: Achievements 
+- Perfect attendance
+- 1ST IN ARAW NG DAVAO DANCESPORT COMP
+- 1ST PLACE IN CYCLING CRIT RACE
+
+---
+
+### :sparkles: Extracurricular 
+- :computer: ICT Club Member 
+- :recycle: Volunteer in community clean-up drives
+
+---
+
+### :busts_in_silhouette: References
+- Available upon request.
+
 
